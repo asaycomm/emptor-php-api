@@ -1,0 +1,22 @@
+{
+  "emptor_akis_no":"EntityForm_WFInstanceId",
+  "aciklamasi":"EntityForm_WFInstanceDesc",
+  "gonderen":"EntityForm_StepSender",
+  "kontrat_no":"PfrmContractDetail_PContractDetailAutoId",
+  "sozlesme_no":"PfrmContractDetail_ContractId.AutoId",
+  "emptor_uniq_id":"EntityFormX_WFSTEPID",
+  "akis_adi":"EntityForm_WFDefinitionName",
+  "baslangic_zamani":"EntityForm_InstanceStartTime",
+  "atanma_zamani":"EntityForm_AssignmentTime",
+  "sozlesme_imzalandi_mi":"PfrmContractDetail_ContractId.PHasContractSign",
+  "sunu_adi":"PfrmContractDetail_OfferingName",
+  "urun_adi":"PfrmContractDetail_ProductName",
+  "istenen_sunu_bilgileri":"PfrmContractDetail_PNewOfferName",
+  "telefon_hatti_iptal_edilecek_mi":"EntityForm_PIsCancelPhoneLine_SELECTEDDESC",
+  "proje_yoneticisi":"PfrmContractDetail_PProjectManager",
+  "satis_sorumlusu":"PfrmContractDetail_PSalesPersonPositionId_D",
+  "istenen_hiz_bilgisi":"",
+  "istenen_paket_bilgisi":"",
+  "cihaz_degisikligi_gerekecek_mi":"",
+  "iss_firmasi":""
+}

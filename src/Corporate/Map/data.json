@@ -1,0 +1,21 @@
+{
+  "devre_no":"EntityForm_PCommonLineDataNumber_grpC9",
+  "karsi_devre_no":"EntityForm_PCommonOppositeSideLineDataNumber_grpC9",
+  "hiz_bilgisi":"EntityForm_PCommonLineSpeed_grpC9",
+  "pppoe_kullanici_adi":"EntityForm_PCommonAdslUserName",
+  "pppoe_sifre":"EntityForm_PCommonAdslPassword",
+  "hat_tipi":"EntityForm_PLineType_grpC9",
+  "modem_tipi":"EntityForm_PCommonModemType",
+  "sunu_bilgileri":"PfrmContractDetail_PNewOfferName",
+  "tt_ssg_adi":"EntityForm_PCommonSSGNameV2_c7_D",
+  "wan_ip_adresi":"EntityForm_PCommonStaticIP",
+  "lan_ip_adresi":"EntityForm_PLANInternetIp",
+  "vrf_bilgisi":"EntityForm_PVRFInfo_c11",
+  "yedeklilik_bilgisi":"EntityForm_PYedeklikBilgisi_c21",
+  "sv_ssg_adi":"",
+  "krone_bilgisi":"",
+  "not":"",
+  "pstn_no":"",
+  "vlan_no":"",
+  "tesis_tarihi":""
+}

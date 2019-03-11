@@ -1,0 +1,10 @@
+{
+  "lokasyon_kodu":"PfrmContractDetail_CustomerNumber",
+  "adi":"PfrmContractDetail_CustomerId",
+  "adres":"PfrmContractDetail_DeliveryAddressId.LocationId.Description",
+  "bbk":"PfrmContractDetail_DeliveryAddressId.LocationId.PBBKCodeLog",
+  "kontak":"PfrmContractDetail_PCusContactName",
+  "kontak_tel":"PfrmContractDetail_PContactLocationPhone",
+  "ci_ismi":"EntityForm_PCIName_grpC9",
+  "tipi":"EntityForm_PLokasyon_c11"
+}

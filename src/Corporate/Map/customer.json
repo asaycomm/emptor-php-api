@@ -1,0 +1,6 @@
+{
+  "musteri_no":"PfrmContractDetail_PCustomerCode",
+  "musteri_adi":"PfrmContractDetail_PCustomerName",
+  "musteri_adres":"PfrmContractDetail_PCustomerAddress",
+  "musteri_telefon":"PfrmContractDetail_PCustomerPhone"
+}
